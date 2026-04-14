@@ -1,0 +1,13 @@
+3
+Mathematics
+5
+30
+14
+Physics
+4
+55
+21
+Art History
+2
+85
+10
